@@ -1,3 +1,5 @@
+
+![InkedScreenshot (85)_LI](https://user-images.githubusercontent.com/79078061/118802481-8139c300-b8e5-11eb-9a19-5093546917e3.jpg)
 # notetaker
 Creating a note taker app that showcases important notes users save to the app.
 
