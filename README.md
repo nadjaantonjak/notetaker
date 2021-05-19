@@ -10,6 +10,6 @@ contributors -  Nadja Antonjak
 
 4.Throughout this assignment the biggest thing I learned was how to incorporate the skills I've learnt in class and apply it to my assignment. Implementing what we learned throughout the week in class and uploading it through heroku really put the assignment together in the end as it activates the system and updates the board of notes.
 
-https://nadjanotetaker.herokuapp.com/notes
+https://nadjanotetaker.herokuapp.com/
 
 
