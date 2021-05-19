@@ -1,3 +1,4 @@
+![InkedScreenshot (86)_LI](https://user-images.githubusercontent.com/79078061/118802672-bf36e700-b8e5-11eb-8d56-b88498bf9b42.jpg)
 
 ![InkedScreenshot (85)_LI](https://user-images.githubusercontent.com/79078061/118802481-8139c300-b8e5-11eb-9a19-5093546917e3.jpg)
 # notetaker
