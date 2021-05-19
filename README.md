@@ -1,6 +1,8 @@
-![InkedScreenshot (86)_LI](https://user-images.githubusercontent.com/79078061/118802672-bf36e700-b8e5-11eb-8d56-b88498bf9b42.jpg)
+![InkedScreenshot (88)_LI](https://user-images.githubusercontent.com/79078061/118803839-3620af80-b8e7-11eb-81e6-f4b85abbd171.jpg)
+![InkedScreenshot (87)_LI](https://user-images.githubusercontent.com/79078061/118803852-39b43680-b8e7-11eb-833d-8d4ac5c6fed5.jpg)
+![InkedScreenshot (86)_LI](https://user-images.githubusercontent.com/79078061/118803856-3b7dfa00-b8e7-11eb-9d3c-f01707141c0c.jpg)
+![InkedScreenshot (85)_LI](https://user-images.githubusercontent.com/79078061/118803860-3d47bd80-b8e7-11eb-92c8-4b5b5d7687b6.jpg)
 
-![InkedScreenshot (85)_LI](https://user-images.githubusercontent.com/79078061/118802481-8139c300-b8e5-11eb-9a19-5093546917e3.jpg)
 # notetaker
 Creating a note taker app that showcases important notes users save to the app.
 
